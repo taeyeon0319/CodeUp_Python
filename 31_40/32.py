@@ -1,2 +1,2 @@
 num = int(input(""))
-print(chr(num))
+print(-num)
